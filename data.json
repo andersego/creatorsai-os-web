@@ -1,0 +1,275 @@
+{
+ "details": {
+  "experiments": [
+   {
+    "nombre": "contacts-experiment",
+    "status": "🟡 activo",
+    "desc": "Experimento: contacts-experiment/"
+   },
+   {
+    "nombre": "padel-smash",
+    "status": "🟡 activo",
+    "desc": "Este repo contiene el código heredado y el documento de Technical Discovery que audita sus suposiciones. Es la contraparte técnica del exper"
+   }
+  ],
+  "pending": [
+   {
+    "nombre": "Lidio Miguel GONZÁLEZ",
+    "empresa": "Innovación digital",
+    "cargo": "Consultor de Estrategia y Desarrollo de Negocio ✦ Innovación",
+    "ronda": "ronda9"
+   },
+   {
+    "nombre": "Jordi Puig Bou",
+    "empresa": "Innovación digital",
+    "cargo": "QA Lead | SDET at Telefónica Innovación Digital",
+    "ronda": "ronda9"
+   },
+   {
+    "nombre": "Rubén Burriel Mainar",
+    "empresa": "Innovación digital",
+    "cargo": "Consultor de Marketing Digital e Innovación Abierta",
+    "ronda": "ronda9"
+   },
+   {
+    "nombre": "Lenin Rubén Valles Rios",
+    "empresa": "Innovación digital",
+    "cargo": "Innovación y Transformación Digital | Ciberseguridad",
+    "ronda": "ronda9"
+   },
+   {
+    "nombre": "Javier Bohorquez Bohorquez",
+    "empresa": "Innovación digital",
+    "cargo": "Vicepresidente de Operaciones, Analítica e Innovación Digita",
+    "ronda": "ronda9"
+   },
+   {
+    "nombre": "Francisco Álvarez Terribas",
+    "empresa": "Innovación digital",
+    "cargo": "Research Engineer",
+    "ronda": "ronda9"
+   }
+  ],
+  "recent_outreach": [
+   {
+    "nombre": "Pere Olivé",
+    "ronda": "ronda9",
+    "fecha": "2026-10-01"
+   },
+   {
+    "nombre": "Xose Xavier Rodriguez Rivera",
+    "ronda": "ronda9",
+    "fecha": "2026-10-01"
+   },
+   {
+    "nombre": "Aniol Sala Pau",
+    "ronda": "ronda9",
+    "fecha": "2026-10-01"
+   },
+   {
+    "nombre": "Cristina Gil Bonnemaison",
+    "ronda": "ronda9",
+    "fecha": "2026-10-01"
+   }
+  ]
+ },
+ "nextActions": [
+  {
+   "unidad": "Lab",
+   "dot": "🟢",
+   "accion": "Create the simplest credible demonstration → record → publish as short-form content → measure response → extract learning."
+  },
+  {
+   "unidad": "Academy",
+   "dot": "🟡",
+   "accion": "Define and run a weekly session format, then capture recurring needs and program or content signals."
+  },
+  {
+   "unidad": "Agency",
+   "dot": "🟡",
+   "accion": "Create case studies before adding unnecessary website complexity."
+  }
+ ],
+ "updated": "04-10-2026 00:50",
+ "followers": "11.834",
+ "totalImpressions": "1.892",
+ "postCount": "3",
+ "followerSpark": [
+  11600,
+  11650,
+  11700,
+  11720,
+  11780,
+  11800,
+  11834
+ ],
+ "impSpark": [
+  0,
+  54,
+  384,
+  1508,
+  1892
+ ],
+ "postSpark": [
+  0,
+  0,
+  1,
+  2,
+  3
+ ],
+ "units": [
+  {
+   "name": "CreatorsAI Lab",
+   "num": 1,
+   "dot": "🟢",
+   "color": "green",
+   "status": "Primary company focus. No current metrics or validation results have been provided.",
+   "next": "Create the simplest credible demonstration → record → publish as short-form content → measure response → extract learning.",
+   "progress": 0.45
+  },
+  {
+   "name": "CreatorsAI Academy",
+   "num": 2,
+   "dot": "🟡",
+   "color": "yellow",
+   "status": "Secondary priority. Ander, Ashley and Luisa mentor the community; no current metrics or results have been provided.",
+   "next": "Define and run a weekly session format, then capture recurring needs and program or content signals.",
+   "progress": 0.2
+  },
+  {
+   "name": "CreatorsAI Agency",
+   "num": 3,
+   "dot": "🟡",
+   "color": "yellow",
+   "status": "Secondary priority. Team: Ander, Hans and Jan. The Agency has delivered client projects.",
+   "next": "Create case studies before adding unnecessary website complexity.",
+   "progress": 0.15
+  }
+ ],
+ "streaks": [
+  {
+   "label": "Posts LinkedIn",
+   "emoji": "📝",
+   "current": 3,
+   "best": 3,
+   "unit": "sem",
+   "history": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "label": "Contactos outreach",
+   "emoji": "🤝",
+   "current": 92,
+   "best": 18,
+   "unit": "ronda",
+   "history": [
+    15,
+    15,
+    15,
+    4,
+    14,
+    10,
+    10,
+    18
+   ]
+  },
+  {
+   "label": "Reacciones",
+   "emoji": "🔥",
+   "current": 39,
+   "best": 39,
+   "unit": "total",
+   "history": [
+    8,
+    30,
+    1
+   ]
+  },
+  {
+   "label": "Experimentos activos",
+   "emoji": "🧪",
+   "current": 2,
+   "best": 2,
+   "unit": "now",
+   "history": [
+    1,
+    2
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "titulo": "IA para analizar mi remate de pádel",
+   "formato": "Texto + VÍDEO demo",
+   "impresiones": "1.508",
+   "reacciones": "30",
+   "comentarios": "12",
+   "compartidos": "4",
+   "best": true
+  },
+  {
+   "titulo": "El dilema de la productividad con IA",
+   "formato": "Texto + tarjeta McKinsey",
+   "impresiones": "330 (a 6 días)",
+   "reacciones": "8",
+   "comentarios": "0",
+   "compartidos": "0",
+   "best": false
+  },
+  {
+   "titulo": "Verlo todo no es entender nada",
+   "formato": "Texto + hero imagen (Voynich)",
+   "impresiones": "54 (a 56 min)",
+   "reacciones": "1",
+   "comentarios": "0",
+   "compartidos": "0",
+   "best": false
+  }
+ ],
+ "pipeline": [],
+ "outreach": {
+  "total": 101,
+  "contactados": 92,
+  "pendientes": 9,
+  "comunidad": "5/17",
+  "rondas": [
+   [
+    "ronda1",
+    15
+   ],
+   [
+    "ronda2",
+    15
+   ],
+   [
+    "ronda3",
+    15
+   ],
+   [
+    "ronda4",
+    4
+   ],
+   [
+    "ronda5",
+    14
+   ],
+   [
+    "ronda6",
+    10
+   ],
+   [
+    "ronda7",
+    10
+   ],
+   [
+    "ronda9",
+    18
+   ]
+  ]
+ }
+}
