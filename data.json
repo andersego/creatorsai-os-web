@@ -260,12 +260,6 @@
   ],
   "pending": [
    {
-    "nombre": "Lidio Miguel GONZÁLEZ",
-    "empresa": "Innovación digital",
-    "cargo": "Consultor de Estrategia y Desarrollo de Negocio ✦ Innovación",
-    "ronda": "ronda9"
-   },
-   {
     "nombre": "Jordi Puig Bou",
     "empresa": "Innovación digital",
     "cargo": "QA Lead | SDET at Telefónica Innovación Digital",
@@ -294,28 +288,34 @@
     "empresa": "Innovación digital",
     "cargo": "Research Engineer",
     "ronda": "ronda9"
+   },
+   {
+    "nombre": "Cristian García",
+    "empresa": "Innovación digital",
+    "cargo": "Account Manager en Nespra | Estrategia IoT & Gestión de Cuen",
+    "ronda": "ronda9"
    }
   ],
   "recent_outreach": [
    {
-    "nombre": "Pere Olivé",
+    "nombre": "María José Fontanet",
     "ronda": "ronda9",
     "fecha": "2026-10-01"
    },
    {
-    "nombre": "Xose Xavier Rodriguez Rivera",
+    "nombre": "Àlex Montoya Pérez",
     "ronda": "ronda9",
     "fecha": "2026-10-01"
    },
    {
-    "nombre": "Aniol Sala Pau",
+    "nombre": "Marcos Estopiñan Palencia",
     "ronda": "ronda9",
     "fecha": "2026-10-01"
    },
    {
-    "nombre": "Cristina Gil Bonnemaison",
-    "ronda": "ronda9",
-    "fecha": "2026-10-01"
+    "nombre": "Francisco Javier Ruiz Montávez",
+    "ronda": "ronda7",
+    "fecha": "2026-09-29"
    }
   ]
  },
@@ -336,7 +336,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "04-10-2026 12:42",
+ "updated": "04-10-2026 15:30",
  "followers": "11.834",
  "totalImpressions": "1.892",
  "postCount": "3",
@@ -410,10 +410,11 @@
   {
    "label": "Contactos outreach",
    "emoji": "🤝",
-   "current": 92,
+   "current": 86,
    "best": 18,
    "unit": "ronda",
    "history": [
+    1,
     15,
     15,
     15,
@@ -479,11 +480,15 @@
  ],
  "pipeline": [],
  "outreach": {
-  "total": 101,
-  "contactados": 92,
-  "pendientes": 9,
+  "total": 102,
+  "contactados": 86,
+  "pendientes": 16,
   "comunidad": "5/17",
   "rondas": [
+   [
+    "inbound",
+    1
+   ],
    [
     "ronda1",
     15
