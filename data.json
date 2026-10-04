@@ -2,7 +2,7 @@
  "money": {
   "objective": 800,
   "ganadoMes": 0,
-  "ganadoTotal": 5297.0,
+  "ganadoTotal": 31297.0,
   "pipeline": 0,
   "byUnit": {
    "Agency": {
@@ -42,18 +42,18 @@
     ]
    },
    "Academy": {
-    "ganado": 497.0,
+    "ganado": 24497.0,
     "pipeline": 0,
     "deals": [
      {
       "cliente": "~100 alumnos",
-      "descripcion": "Alumnos referidos históricos (pre-embudo activo)",
+      "descripcion": "Academy histórica: ~24.000€ en 2 meses consecutivos (~100 alumnos referidos)",
       "sector": "educación/bienestar",
       "etapa": "ganado",
-      "importe": null,
+      "importe": 24000.0,
       "origen": "referencia",
-      "notas": "Referidos históricos; sin registro de importe individual.",
-      "fecha_cierre": null
+      "notas": "Alto coste operativo: los alumnos requerían mentores que los gestionaban. Margen bajo. Modelo no repetible sin estructura.",
+      "fecha_cierre": "2026-06-30"
      },
      {
       "cliente": "Alumna Academy",
@@ -64,6 +64,52 @@
       "origen": "outreach",
       "notas": "Único ingreso desde julio: 497€ (~2 meses).",
       "fecha_cierre": "2026-08-15"
+     }
+    ]
+   },
+   "Lab": {
+    "ganado": 2000.0,
+    "pipeline": 0,
+    "deals": [
+     {
+      "cliente": "Talen Arena",
+      "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+      "sector": "talento/deporte",
+      "etapa": "ganado",
+      "importe": 500.0,
+      "origen": "inbound",
+      "notas": "Campaña más interesante. Marca personal @anderfocus. (fecha estimada)",
+      "fecha_cierre": "2026-06-15"
+     },
+     {
+      "cliente": "Encuentro Internacional Derechos Digitales",
+      "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+      "sector": "digital/tech",
+      "etapa": "ganado",
+      "importe": 500.0,
+      "origen": "inbound",
+      "notas": "Campaña más interesante. Marca personal @anderfocus. (fecha estimada)",
+      "fecha_cierre": "2026-06-15"
+     },
+     {
+      "cliente": "Empresa 3",
+      "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+      "sector": null,
+      "etapa": "ganado",
+      "importe": 500.0,
+      "origen": "inbound",
+      "notas": "Campaña de marca personal. (fecha estimada)",
+      "fecha_cierre": "2026-06-15"
+     },
+     {
+      "cliente": "Empresa 4",
+      "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+      "sector": null,
+      "etapa": "ganado",
+      "importe": 500.0,
+      "origen": "inbound",
+      "notas": "Campaña de marca personal. (fecha estimada)",
+      "fecha_cierre": "2026-06-15"
      }
     ]
    }
@@ -116,13 +162,13 @@
     "unidad": "Academy",
     "cliente": "~100 alumnos",
     "origen": "referencia",
-    "descripcion": "Alumnos referidos históricos (pre-embudo activo)",
+    "descripcion": "Academy histórica: ~24.000€ en 2 meses consecutivos (~100 alumnos referidos)",
     "sector": "educación/bienestar",
     "etapa": "ganado",
-    "importe": null,
+    "importe": 24000.0,
     "fecha_inicio": null,
-    "fecha_cierre": null,
-    "notas": "Referidos históricos; sin registro de importe individual.",
+    "fecha_cierre": "2026-06-30",
+    "notas": "Alto coste operativo: los alumnos requerían mentores que los gestionaban. Margen bajo. Modelo no repetible sin estructura.",
     "created_at": "2026-10-04 08:55:10"
    },
    {
@@ -138,6 +184,62 @@
     "fecha_cierre": "2026-08-15",
     "notas": "Único ingreso desde julio: 497€ (~2 meses).",
     "created_at": "2026-10-04 08:55:10"
+   },
+   {
+    "id": 6,
+    "unidad": "Lab",
+    "cliente": "Talen Arena",
+    "origen": "inbound",
+    "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+    "sector": "talento/deporte",
+    "etapa": "ganado",
+    "importe": 500.0,
+    "fecha_inicio": null,
+    "fecha_cierre": "2026-06-15",
+    "notas": "Campaña más interesante. Marca personal @anderfocus. (fecha estimada)",
+    "created_at": "2026-10-04 09:16:57"
+   },
+   {
+    "id": 7,
+    "unidad": "Lab",
+    "cliente": "Encuentro Internacional Derechos Digitales",
+    "origen": "inbound",
+    "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+    "sector": "digital/tech",
+    "etapa": "ganado",
+    "importe": 500.0,
+    "fecha_inicio": null,
+    "fecha_cierre": "2026-06-15",
+    "notas": "Campaña más interesante. Marca personal @anderfocus. (fecha estimada)",
+    "created_at": "2026-10-04 09:16:57"
+   },
+   {
+    "id": 8,
+    "unidad": "Lab",
+    "cliente": "Empresa 3",
+    "origen": "inbound",
+    "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+    "sector": null,
+    "etapa": "ganado",
+    "importe": 500.0,
+    "fecha_inicio": null,
+    "fecha_cierre": "2026-06-15",
+    "notas": "Campaña de marca personal. (fecha estimada)",
+    "created_at": "2026-10-04 09:16:57"
+   },
+   {
+    "id": 9,
+    "unidad": "Lab",
+    "cliente": "Empresa 4",
+    "origen": "inbound",
+    "descripcion": "Vídeo promocional en redes (campaña patrocinada)",
+    "sector": null,
+    "etapa": "ganado",
+    "importe": 500.0,
+    "fecha_inicio": null,
+    "fecha_cierre": "2026-06-15",
+    "notas": "Campaña de marca personal. (fecha estimada)",
+    "created_at": "2026-10-04 09:16:57"
    }
   ],
   "ganado90d": 497.0,
@@ -234,7 +336,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "04-10-2026 11:05",
+ "updated": "04-10-2026 11:17",
  "followers": "11.834",
  "totalImpressions": "1.892",
  "postCount": "3",
