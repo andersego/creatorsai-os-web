@@ -1,4 +1,146 @@
 {
+ "money": {
+  "objective": 800,
+  "ganadoMes": 4800.0,
+  "ganadoTotal": 4800.0,
+  "pipeline": 0,
+  "byUnit": {
+   "Agency": {
+    "ganado": 4800.0,
+    "pipeline": 0,
+    "deals": [
+     {
+      "cliente": "Agencia de viajes",
+      "descripcion": "Web + chatbot + creador de itinerarios personalizados",
+      "sector": "viajes",
+      "etapa": "ganado",
+      "importe": 4000.0,
+      "origen": "inbound",
+      "notas": "Facturado 4.000€. Proyecto entregado/entrega.",
+      "fecha_cierre": "2026-10-01"
+     },
+     {
+      "cliente": "Inmobiliaria",
+      "descripcion": "Web",
+      "sector": "inmobiliaria",
+      "etapa": "ganado",
+      "importe": 800.0,
+      "origen": "inbound",
+      "notas": "Facturado 800€.",
+      "fecha_cierre": "2026-10-01"
+     },
+     {
+      "cliente": "Audi",
+      "descripcion": "Presupuesto: generador de rutas personalizadas",
+      "sector": "automoción",
+      "etapa": "perdido",
+      "importe": null,
+      "origen": "outreach",
+      "notas": "Presupuesto enviado, trato no cerrado.",
+      "fecha_cierre": null
+     }
+    ]
+   },
+   "Academy": {
+    "ganado": 0,
+    "pipeline": 0,
+    "deals": [
+     {
+      "cliente": "~100 alumnos",
+      "descripcion": "Alumnos referidos históricos (pre-embudo activo)",
+      "sector": "educación/bienestar",
+      "etapa": "ganado",
+      "importe": null,
+      "origen": "referencia",
+      "notas": "Referidos históricos; sin registro de importe individual.",
+      "fecha_cierre": null
+     },
+     {
+      "cliente": "1 alumno",
+      "descripcion": "1 alumno desde búsqueda activa",
+      "sector": "educación/bienestar",
+      "etapa": "ganado",
+      "importe": null,
+      "origen": "outreach",
+      "notas": "Inicio del embudo activo; importe no especificado.",
+      "fecha_cierre": null
+     }
+    ]
+   }
+  },
+  "deals": [
+   {
+    "id": 1,
+    "unidad": "Agency",
+    "cliente": "Agencia de viajes",
+    "origen": "inbound",
+    "descripcion": "Web + chatbot + creador de itinerarios personalizados",
+    "sector": "viajes",
+    "etapa": "ganado",
+    "importe": 4000.0,
+    "fecha_inicio": null,
+    "fecha_cierre": "2026-10-01",
+    "notas": "Facturado 4.000€. Proyecto entregado/entrega.",
+    "created_at": "2026-10-04 08:55:10"
+   },
+   {
+    "id": 2,
+    "unidad": "Agency",
+    "cliente": "Inmobiliaria",
+    "origen": "inbound",
+    "descripcion": "Web",
+    "sector": "inmobiliaria",
+    "etapa": "ganado",
+    "importe": 800.0,
+    "fecha_inicio": null,
+    "fecha_cierre": "2026-10-01",
+    "notas": "Facturado 800€.",
+    "created_at": "2026-10-04 08:55:10"
+   },
+   {
+    "id": 3,
+    "unidad": "Agency",
+    "cliente": "Audi",
+    "origen": "outreach",
+    "descripcion": "Presupuesto: generador de rutas personalizadas",
+    "sector": "automoción",
+    "etapa": "perdido",
+    "importe": null,
+    "fecha_inicio": null,
+    "fecha_cierre": null,
+    "notas": "Presupuesto enviado, trato no cerrado.",
+    "created_at": "2026-10-04 08:55:10"
+   },
+   {
+    "id": 4,
+    "unidad": "Academy",
+    "cliente": "~100 alumnos",
+    "origen": "referencia",
+    "descripcion": "Alumnos referidos históricos (pre-embudo activo)",
+    "sector": "educación/bienestar",
+    "etapa": "ganado",
+    "importe": null,
+    "fecha_inicio": null,
+    "fecha_cierre": null,
+    "notas": "Referidos históricos; sin registro de importe individual.",
+    "created_at": "2026-10-04 08:55:10"
+   },
+   {
+    "id": 5,
+    "unidad": "Academy",
+    "cliente": "1 alumno",
+    "origen": "outreach",
+    "descripcion": "1 alumno desde búsqueda activa",
+    "sector": "educación/bienestar",
+    "etapa": "ganado",
+    "importe": null,
+    "fecha_inicio": null,
+    "fecha_cierre": null,
+    "notas": "Inicio del embudo activo; importe no especificado.",
+    "created_at": "2026-10-04 08:55:10"
+   }
+  ]
+ },
  "details": {
   "experiments": [
    {
@@ -90,7 +232,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "04-10-2026 00:50",
+ "updated": "04-10-2026 10:57",
  "followers": "11.834",
  "totalImpressions": "1.892",
  "postCount": "3",
