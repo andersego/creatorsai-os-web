@@ -1,8 +1,8 @@
 {
  "money": {
   "objective": 800,
-  "ganadoMes": 4800.0,
-  "ganadoTotal": 4800.0,
+  "ganadoMes": 0,
+  "ganadoTotal": 5297.0,
   "pipeline": 0,
   "byUnit": {
    "Agency": {
@@ -16,8 +16,8 @@
       "etapa": "ganado",
       "importe": 4000.0,
       "origen": "inbound",
-      "notas": "Facturado 4.000€. Proyecto entregado/entrega.",
-      "fecha_cierre": "2026-10-01"
+      "notas": "Facturado 4.000€ (hace ~3-4 meses). Web + chatbot + itinerarios IA entregado.",
+      "fecha_cierre": "2026-07-01"
      },
      {
       "cliente": "Inmobiliaria",
@@ -26,8 +26,8 @@
       "etapa": "ganado",
       "importe": 800.0,
       "origen": "inbound",
-      "notas": "Facturado 800€.",
-      "fecha_cierre": "2026-10-01"
+      "notas": "Facturado 800€ (hace ~3-4 meses).",
+      "fecha_cierre": "2026-07-01"
      },
      {
       "cliente": "Audi",
@@ -42,7 +42,7 @@
     ]
    },
    "Academy": {
-    "ganado": 0,
+    "ganado": 497.0,
     "pipeline": 0,
     "deals": [
      {
@@ -56,14 +56,14 @@
       "fecha_cierre": null
      },
      {
-      "cliente": "1 alumno",
-      "descripcion": "1 alumno desde búsqueda activa",
+      "cliente": "Alumna Academy",
+      "descripcion": "Programa Academy vendido (1 alumna)",
       "sector": "educación/bienestar",
       "etapa": "ganado",
-      "importe": null,
+      "importe": 497.0,
       "origen": "outreach",
-      "notas": "Inicio del embudo activo; importe no especificado.",
-      "fecha_cierre": null
+      "notas": "Único ingreso desde julio: 497€ (~2 meses).",
+      "fecha_cierre": "2026-08-15"
      }
     ]
    }
@@ -79,8 +79,8 @@
     "etapa": "ganado",
     "importe": 4000.0,
     "fecha_inicio": null,
-    "fecha_cierre": "2026-10-01",
-    "notas": "Facturado 4.000€. Proyecto entregado/entrega.",
+    "fecha_cierre": "2026-07-01",
+    "notas": "Facturado 4.000€ (hace ~3-4 meses). Web + chatbot + itinerarios IA entregado.",
     "created_at": "2026-10-04 08:55:10"
    },
    {
@@ -93,8 +93,8 @@
     "etapa": "ganado",
     "importe": 800.0,
     "fecha_inicio": null,
-    "fecha_cierre": "2026-10-01",
-    "notas": "Facturado 800€.",
+    "fecha_cierre": "2026-07-01",
+    "notas": "Facturado 800€ (hace ~3-4 meses).",
     "created_at": "2026-10-04 08:55:10"
    },
    {
@@ -128,18 +128,20 @@
    {
     "id": 5,
     "unidad": "Academy",
-    "cliente": "1 alumno",
+    "cliente": "Alumna Academy",
     "origen": "outreach",
-    "descripcion": "1 alumno desde búsqueda activa",
+    "descripcion": "Programa Academy vendido (1 alumna)",
     "sector": "educación/bienestar",
     "etapa": "ganado",
-    "importe": null,
+    "importe": 497.0,
     "fecha_inicio": null,
-    "fecha_cierre": null,
-    "notas": "Inicio del embudo activo; importe no especificado.",
+    "fecha_cierre": "2026-08-15",
+    "notas": "Único ingreso desde julio: 497€ (~2 meses).",
     "created_at": "2026-10-04 08:55:10"
    }
-  ]
+  ],
+  "ganado90d": 497.0,
+  "mesesEnCero": 1
  },
  "details": {
   "experiments": [
@@ -232,7 +234,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "04-10-2026 10:57",
+ "updated": "04-10-2026 11:05",
  "followers": "11.834",
  "totalImpressions": "1.892",
  "postCount": "3",
