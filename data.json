@@ -245,6 +245,71 @@
   "ganado90d": 497.0,
   "mesesEnCero": 1
  },
+ "responses": [
+  {
+   "nombre": "Lidio Miguel GONZÁLEZ",
+   "estado": "Enviado sin respuesta",
+   "notas": "Conexión propia de LinkedIn (1er grado)",
+   "fecha_contacto": "",
+   "respondio": false
+  },
+  {
+   "nombre": "Minerva Santana",
+   "estado": "Enviado sin respuesta",
+   "notas": "Conexión propia de LinkedIn (1er grado)",
+   "fecha_contacto": "2026-10-01",
+   "respondio": false
+  },
+  {
+   "nombre": "Pere Olivé",
+   "estado": "Enviado sin respuesta",
+   "notas": "Conexión propia de LinkedIn (1er grado)",
+   "fecha_contacto": "2026-10-01",
+   "respondio": false
+  },
+  {
+   "nombre": "Xose Xavier Rodriguez Rivera",
+   "estado": "Enviado sin respuesta",
+   "notas": "Conexión propia de LinkedIn (1er grado)",
+   "fecha_contacto": "2026-10-01",
+   "respondio": false
+  },
+  {
+   "nombre": "Aniol Sala Pau",
+   "estado": "Respondió",
+   "notas": "Respondió 01-10: reflexión sobre autenticidad > resultado. Filosofía alineada.",
+   "fecha_contacto": "2026-10-01",
+   "respondio": true
+  },
+  {
+   "nombre": "Cristina Gil Bonnemaison",
+   "estado": "Respondió",
+   "notas": "Conversación activa: último msg de Ander 02-10 \"Ohh vale vale mm interesante\".",
+   "fecha_contacto": "2026-10-01",
+   "respondio": true
+  },
+  {
+   "nombre": "Ion Arrizabalaga",
+   "estado": "Respondió",
+   "notas": "RESPUESTA VALIOSA 01-10: ofrece conectar con CEIN (aceleradora) y Polo de innovación. PUENTE INSTITUCIONAL → deal potencial.",
+   "fecha_contacto": "",
+   "respondio": true
+  },
+  {
+   "nombre": "Luis Loscertales",
+   "estado": "Respondió",
+   "notas": "Respondió 02-10: aprendizaje montaña→negocio. Ander reaccionó ❤️. Conversación cálida.",
+   "fecha_contacto": "2026-10-01",
+   "respondio": true
+  },
+  {
+   "nombre": "Miguel Arias",
+   "estado": "Respondió",
+   "notas": "Respondió 01-10 con INVITACIÓN: evento \"El latido de tu startup\" 5-oct 18:30 Hub BStartup Barcelona (con Juan Margenat COO Marfeel, modera Y",
+   "fecha_contacto": "2026-10-01",
+   "respondio": true
+  }
+ ],
  "details": {
   "experiments": [
    {
@@ -336,7 +401,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "04-10-2026 15:30",
+ "updated": "05-10-2026 01:06",
  "followers": "11.834",
  "totalImpressions": "1.892",
  "postCount": "3",
