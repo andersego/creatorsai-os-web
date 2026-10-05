@@ -280,16 +280,40 @@
    "when": "hoy"
   },
   {
-   "tipo": "followup",
-   "emoji": "⏳",
-   "txt": "Follow-ups a 4 contactos (3 días): mensajes ya redactados en followups-05-10.md",
-   "when": "08-10"
+   "tipo": "responder",
+   "emoji": "💬",
+   "txt": "Responder a Ion (CEIN) — interés concreto + proponer call corto",
+   "when": "2026-10-06"
   },
   {
    "tipo": "responder",
    "emoji": "💬",
-   "txt": "Responder a Ion (CEIN) y Aniol — conversaciones calientes abiertas",
-   "when": "esta semana"
+   "txt": "Cerrar hilo con Cristina Gil (quedó a medias) + pregunta abierta a Aniol",
+   "when": "2026-10-07"
+  },
+  {
+   "tipo": "followup",
+   "emoji": "⏳",
+   "txt": "Enviar 4 follow-ups: Minerva, Pere, Xose, Lidio (redactados en followups-05-10.md)",
+   "when": "2026-10-08"
+  },
+  {
+   "tipo": "contenido",
+   "emoji": "📝",
+   "txt": "Post 1 de la semana en LinkedIn (Lab: sistema vídeo/demos cortas — sin CTA comercial)",
+   "when": "2026-10-08"
+  },
+  {
+   "tipo": "oferta",
+   "emoji": "🎯",
+   "txt": "Llevar 1 conversación caliente a OFERTA concreta ~500€ (campaña marca personal o Agency)",
+   "when": "2026-10-10"
+  },
+  {
+   "tipo": "contenido",
+   "emoji": "📝",
+   "txt": "Post 2 de la semana en LinkedIn (aprendizaje del evento BStartup)",
+   "when": "2026-10-11"
   }
  ],
  "responses": [
@@ -448,7 +472,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "05-10-2026 11:42",
+ "updated": "05-10-2026 10:00",
  "followers": "11.834",
  "totalImpressions": "482.402",
  "postCount": "4",
