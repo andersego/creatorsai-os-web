@@ -248,7 +248,7 @@
  "funnel": [
   {
    "label": "Contactados",
-   "n": 95,
+   "n": 94,
    "rate": null
   },
   {
@@ -274,6 +274,13 @@
  ],
  "today": [
   {
+   "id": 9,
+   "tipo": "responder",
+   "emoji": "💬",
+   "txt": "Responder a Stephan Maric (eFans AI) — lead pádel caliente: Discovery call 15-20 min",
+   "when": "hoy"
+  },
+  {
    "id": 2,
    "tipo": "responder",
    "emoji": "💬",
@@ -288,6 +295,27 @@
    "when": "2026-10-06"
   },
   {
+   "id": 10,
+   "tipo": "admin",
+   "emoji": "🤝",
+   "txt": "Pasarle a Jean el brief comercial + alinear reparto (sitges app como carta de entrada)",
+   "when": "2026-10-06"
+  },
+  {
+   "id": 11,
+   "tipo": "call",
+   "emoji": "📞",
+   "txt": "Proponer call 15-20 min a Stephan Maric (eFans) — respuesta enviada, esperar día/hora",
+   "when": "2026-10-06"
+  },
+  {
+   "id": 12,
+   "tipo": "sistema",
+   "emoji": "🔧",
+   "txt": "Refrescar cookies LinkedIn (sesión actual flaggeada/expirada ~11h) — necesaria para búsqueda diaria",
+   "when": "2026-10-06"
+  },
+  {
    "id": 3,
    "tipo": "responder",
    "emoji": "💬",
@@ -298,7 +326,7 @@
    "id": 4,
    "tipo": "followup",
    "emoji": "⏳",
-   "txt": "Enviar 4 follow-ups: Minerva, Pere, Xose, Lidio (redactados en followups-05-10.md)",
+   "txt": "Enviar 4 follow-ups: Minerva, Pere, Xose, Lidio (mensajes ya redactados, te los paso por Telegram)",
    "when": "2026-10-08"
   },
   {
@@ -479,7 +507,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "05-10-2026 12:39",
+ "updated": "05-10-2026 14:17",
  "followers": "11.834",
  "totalImpressions": "482.402",
  "postCount": "4",
@@ -553,10 +581,11 @@
   {
    "label": "Contactos outreach",
    "emoji": "🤝",
-   "current": 86,
+   "current": 85,
    "best": 18,
    "unit": "ronda",
    "history": [
+    1,
     1,
     15,
     15,
@@ -632,11 +661,15 @@
  ],
  "pipeline": [],
  "outreach": {
-  "total": 102,
-  "contactados": 86,
-  "pendientes": 16,
+  "total": 103,
+  "contactados": 85,
+  "pendientes": 18,
   "comunidad": "5/17",
   "rondas": [
+   [
+    null,
+    1
+   ],
    [
     "inbound",
     1
