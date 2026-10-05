@@ -274,42 +274,49 @@
  ],
  "today": [
   {
-   "tipo": "evento",
-   "emoji": "🎤",
-   "txt": "Evento \"El latido de tu startup\" — Hub BStartup, 18:30 (Miguel Arias te espera)",
-   "when": "hoy"
-  },
-  {
+   "id": 2,
    "tipo": "responder",
    "emoji": "💬",
    "txt": "Responder a Ion (CEIN) — interés concreto + proponer call corto",
    "when": "2026-10-06"
   },
   {
+   "id": 8,
+   "tipo": "responder",
+   "emoji": "💬",
+   "txt": "Pedir a Miguel Arias resumen + contactos del evento BStartup (no asistió)",
+   "when": "2026-10-06"
+  },
+  {
+   "id": 3,
    "tipo": "responder",
    "emoji": "💬",
    "txt": "Cerrar hilo con Cristina Gil (quedó a medias) + pregunta abierta a Aniol",
    "when": "2026-10-07"
   },
   {
+   "id": 4,
    "tipo": "followup",
    "emoji": "⏳",
    "txt": "Enviar 4 follow-ups: Minerva, Pere, Xose, Lidio (redactados en followups-05-10.md)",
    "when": "2026-10-08"
   },
   {
+   "id": 6,
    "tipo": "contenido",
    "emoji": "📝",
    "txt": "Post 1 de la semana en LinkedIn (Lab: sistema vídeo/demos cortas — sin CTA comercial)",
    "when": "2026-10-08"
   },
   {
+   "id": 5,
    "tipo": "oferta",
    "emoji": "🎯",
    "txt": "Llevar 1 conversación caliente a OFERTA concreta ~500€ (campaña marca personal o Agency)",
    "when": "2026-10-10"
   },
   {
+   "id": 7,
    "tipo": "contenido",
    "emoji": "📝",
    "txt": "Post 2 de la semana en LinkedIn (aprendizaje del evento BStartup)",
@@ -472,7 +479,7 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "05-10-2026 12:01",
+ "updated": "05-10-2026 12:39",
  "followers": "11.834",
  "totalImpressions": "482.402",
  "postCount": "4",
