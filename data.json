@@ -245,6 +245,53 @@
   "ganado90d": 497.0,
   "mesesEnCero": 1
  },
+ "funnel": [
+  {
+   "label": "Contactados",
+   "n": 95,
+   "rate": null
+  },
+  {
+   "label": "Respondieron",
+   "n": 5,
+   "rate": 5.3
+  },
+  {
+   "label": "Conversación activa",
+   "n": 5,
+   "rate": 100.0
+  },
+  {
+   "label": "Oferta enviada",
+   "n": 0,
+   "rate": 0.0
+  },
+  {
+   "label": "Ganado 90d",
+   "n": 497.0,
+   "rate": null
+  }
+ ],
+ "today": [
+  {
+   "tipo": "evento",
+   "emoji": "🎤",
+   "txt": "Evento \"El latido de tu startup\" — Hub BStartup, 18:30 (Miguel Arias te espera)",
+   "when": "hoy"
+  },
+  {
+   "tipo": "followup",
+   "emoji": "⏳",
+   "txt": "Follow-ups a 4 contactos (3 días): mensajes ya redactados en followups-05-10.md",
+   "when": "08-10"
+  },
+  {
+   "tipo": "responder",
+   "emoji": "💬",
+   "txt": "Responder a Ion (CEIN) y Aniol — conversaciones calientes abiertas",
+   "when": "esta semana"
+  }
+ ],
  "responses": [
   {
    "nombre": "Lidio Miguel GONZÁLEZ",
@@ -401,10 +448,10 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "05-10-2026 01:06",
+ "updated": "05-10-2026 11:42",
  "followers": "11.834",
- "totalImpressions": "1.892",
- "postCount": "3",
+ "totalImpressions": "482.402",
+ "postCount": "4",
  "followerSpark": [
   11600,
   11650,
@@ -419,7 +466,7 @@
   54,
   384,
   1508,
-  1892
+  482402
  ],
  "postSpark": [
   0,
@@ -461,7 +508,7 @@
   {
    "label": "Posts LinkedIn",
    "emoji": "📝",
-   "current": 3,
+   "current": 4,
    "best": 3,
    "unit": "sem",
    "history": [
@@ -516,13 +563,22 @@
  ],
  "posts": [
   {
+   "titulo": "Apple pone cerradura a los agentes",
+   "formato": "Captura titular MacRumors",
+   "impresiones": "⏳ 48h = 05-10",
+   "reacciones": 0,
+   "comentarios": 0,
+   "compartidos": 0,
+   "best": true
+  },
+  {
    "titulo": "IA para analizar mi remate de pádel",
    "formato": "Texto + VÍDEO demo",
    "impresiones": "1.508",
    "reacciones": "30",
    "comentarios": "12",
    "compartidos": "4",
-   "best": true
+   "best": false
   },
   {
    "titulo": "El dilema de la productividad con IA",
