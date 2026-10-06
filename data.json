@@ -278,42 +278,35 @@
    "tipo": "responder",
    "emoji": "💬",
    "txt": "Responder a Stephan Maric (eFans AI) — lead pádel caliente: Discovery call 15-20 min",
-   "when": "hoy"
+   "when": "atrasada (2026-10-05)"
   },
   {
    "id": 2,
    "tipo": "responder",
    "emoji": "💬",
    "txt": "Responder a Ion (CEIN) — interés concreto + proponer call corto",
-   "when": "2026-10-06"
+   "when": "hoy"
   },
   {
    "id": 8,
    "tipo": "responder",
    "emoji": "💬",
    "txt": "Pedir a Miguel Arias resumen + contactos del evento BStartup (no asistió)",
-   "when": "2026-10-06"
+   "when": "hoy"
   },
   {
    "id": 10,
    "tipo": "admin",
    "emoji": "🤝",
    "txt": "Pasarle a Jean el brief comercial + alinear reparto (sitges app como carta de entrada)",
-   "when": "2026-10-06"
+   "when": "hoy"
   },
   {
    "id": 11,
    "tipo": "call",
    "emoji": "📞",
    "txt": "Proponer call 15-20 min a Stephan Maric (eFans) — respuesta enviada, esperar día/hora",
-   "when": "2026-10-06"
-  },
-  {
-   "id": 12,
-   "tipo": "sistema",
-   "emoji": "🔧",
-   "txt": "Refrescar cookies LinkedIn (sesión actual flaggeada/expirada ~11h) — necesaria para búsqueda diaria",
-   "when": "2026-10-06"
+   "when": "hoy"
   },
   {
    "id": 3,
@@ -507,10 +500,10 @@
    "accion": "Create case studies before adding unnecessary website complexity."
   }
  ],
- "updated": "05-10-2026 14:17",
+ "updated": "06-10-2026 04:00",
  "followers": "11.834",
- "totalImpressions": "482.402",
- "postCount": "4",
+ "totalImpressions": "1.892",
+ "postCount": "3",
  "followerSpark": [
   11600,
   11650,
@@ -525,7 +518,7 @@
   54,
   384,
   1508,
-  482402
+  1892
  ],
  "postSpark": [
   0,
@@ -567,7 +560,7 @@
   {
    "label": "Posts LinkedIn",
    "emoji": "📝",
-   "current": 4,
+   "current": 3,
    "best": 3,
    "unit": "sem",
    "history": [
@@ -623,22 +616,13 @@
  ],
  "posts": [
   {
-   "titulo": "Apple pone cerradura a los agentes",
-   "formato": "Captura titular MacRumors",
-   "impresiones": "⏳ 48h = 05-10",
-   "reacciones": 0,
-   "comentarios": 0,
-   "compartidos": 0,
-   "best": true
-  },
-  {
    "titulo": "IA para analizar mi remate de pádel",
    "formato": "Texto + VÍDEO demo",
    "impresiones": "1.508",
    "reacciones": "30",
    "comentarios": "12",
    "compartidos": "4",
-   "best": false
+   "best": true
   },
   {
    "titulo": "El dilema de la productividad con IA",
